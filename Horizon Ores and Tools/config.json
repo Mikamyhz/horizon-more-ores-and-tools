@@ -1,0 +1,45 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Horizon Ores and Tools",
+	"namespace": "po",
+	"authors": [
+		"Mikamy"
+	],
+	"targetVersion": "1.19.60",
+	"description": "Add more ores and tools to minecraft",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": true,
+		"upcomingCreatorFeatures": true,
+		"enableGameTestFramework": false,
+		"experimentalMolangFeatures": true,
+		"educationEdition": false
+	},
+	"bdsProject": true,
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Horizon Ores and Tools"
+				}
+			]
+		]
+	}
+}

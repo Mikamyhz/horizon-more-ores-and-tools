@@ -1,0 +1,39 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"po:jade": {
+		"sound": "stone",
+		"textures": "po_jade"
+	},
+	"po:jade_ore": {
+		"sound": "stone",
+		"textures": "po_jade_ore"
+	},
+	"po:jade_d_ore": {
+		"sound": "stone",
+		"textures": "po_jade_d_ore"
+	},
+	"po:jade_block": {
+		"sound": "stone",
+		"textures": "po_jade_block"
+	},
+	"po:tin_ore": {
+		"sound": "stone",
+		"textures": "po_tin_ore"
+	},
+	"po:tin_ingot": {
+		"sound": "stone",
+		"textures": "po_tin_ingot"
+	},
+	"po:tin_d_ore": {
+		"sound": "stone",
+		"textures": "po_tin_d_ore"
+	},
+	"po:tin_block": {
+		"sound": "stone",
+		"textures": "po_tin_block"
+	}
+}

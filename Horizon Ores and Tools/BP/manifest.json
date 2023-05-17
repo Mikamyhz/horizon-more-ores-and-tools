@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Mikamy"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "Horizon Ores and Tools",
+		"description": "Add more ores and tools to minecraft",
+		"min_engine_version": [
+			1,
+			19,
+			60
+		],
+		"uuid": "ac7a1e34-6caa-4f18-a0dd-9f53752d12f9",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "61d59858-22bb-481f-bf02-6836dc01b571",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "d193581e-178d-4125-83a4-d095575b6928",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

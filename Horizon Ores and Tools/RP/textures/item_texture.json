@@ -1,0 +1,69 @@
+{
+	"resource_pack_name": "Horizon Ores and Tools",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"po_copper_axe": {
+			"textures": "textures/items/copper/copper_axe"
+		},
+		"po_copper_hoe": {
+			"textures": "textures/items/copper/copper_hoe"
+		},
+		"po_copper_pickaxe": {
+			"textures": "textures/items/copper/copper_pickaxe"
+		},
+		"po_copper_shovel": {
+			"textures": "textures/items/copper/copper_shovel"
+		},
+		"po_copper_sword": {
+			"textures": "textures/items/copper/copper_sword"
+		},
+		"po_tin_axe": {
+			"textures": "textures/items/tin/tin_axe"
+		},
+		"po_tin_shovel": {
+			"textures": "textures/items/tin/tin_shovel"
+		},
+		"po_tin_pickaxe": {
+			"textures": "textures/items/tin/tin_pickaxe"
+		},
+		"po_tin_hoe": {
+			"textures": "textures/items/tin/tin_hoe"
+		},
+		"po_tin_sword": {
+			"textures": "textures/items/tin/tin_sword"
+		},
+		"po_tin": {
+			"textures": "textures/items/tin/tin_ingot"
+		},
+		"po_jade_axe": {
+			"textures": "textures/items/jade/jade_axe"
+		},
+		"po_jade_hoe": {
+			"textures": "textures/items/jade/jade_hoe"
+		},
+		"po_jade_pickaxe": {
+			"textures": "textures/items/jade/jade_pickaxe"
+		},
+		"po_jade_shovel": {
+			"textures": "textures/items/jade/jade_shovel"
+		},
+		"po_jade_sword": {
+			"textures": "textures/items/jade/jade_sword"
+		},
+		"po_emerald_sword": {
+			"textures": "textures/items/emerald/emerald_sword"
+		},
+		"po_emerald_shovel": {
+			"textures": "textures/items/emerald/emerald_shovel"
+		},
+		"po_emerald_pickaxe": {
+			"textures": "textures/items/emerald/emerald_pickaxe"
+		},
+		"po_emerald_hoe": {
+			"textures": "textures/items/emerald/emerald_hoe"
+		},
+		"po_emerald_axe": {
+			"textures": "textures/items/emerald/emerald_axe"
+		}
+	}
+}

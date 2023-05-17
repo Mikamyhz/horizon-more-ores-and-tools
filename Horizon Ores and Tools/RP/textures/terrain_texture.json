@@ -1,0 +1,32 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Horizon Ores and Tools",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"po_jade": {
+			"textures": "textures/blocks/jade/jade"
+		},
+		"po_jade_ore": {
+			"textures": "textures/blocks/jade/jade_ore"
+		},
+		"po_jade_d_ore": {
+			"textures": "textures/blocks/jade/jade_d_ore"
+		},
+		"po_jade_block": {
+			"textures": "textures/blocks/jade/jade_block"
+		},
+		"po_tin_ore": {
+			"textures": "textures/blocks/tin/tin_ore"
+		},
+		"po_tin_ingot": {
+			"textures": "textures/blocks/tin/tin_ingot"
+		},
+		"po_tin_d_ore": {
+			"textures": "textures/blocks/tin/tin_d_ore"
+		},
+		"po_tin_block": {
+			"textures": "textures/blocks/tin/tin_block"
+		}
+	}
+}
